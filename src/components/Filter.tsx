@@ -1,5 +1,5 @@
 
-import 'bulma/css/bulma.css';
+
 export const Filter = (props: { value: any; onChange: any; }) => {
   // propsを定義
   const { value, onChange } = props;

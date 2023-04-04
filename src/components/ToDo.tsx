@@ -1,5 +1,5 @@
 
-import 'bulma/css/bulma.css';
+
 export const ToDo = (props: { todo: any; onCheck: any; }) => {
   // stateを作成
   const { todo, onCheck } = props;
